@@ -17,7 +17,7 @@
 
 🎓 Graduando em Engenharia de Software na PUC Minas  
 📱 Especialista em desenvolvimento mobile nativo para iOS e Android  
-📦 Experiência completa na criação e publicação de apps nas lojas App Store e Google Play  
+📦 Experiência completa na criação, desenvolvimento, testes e publicação de aplicativos nas lojas App Store e Google Play  
 🔧 Tecnologias que domino: `SwiftUI`, `UIKit`, `Kotlin`, `Java`, `Firebase`, `MVVM`, `Combine`
 
 ---
@@ -50,10 +50,7 @@
 <p align="center">
   <img src="imagemDisneyApp1.png" width="22%" />
   <img src="imagemDisneyApp2.png" width="22%" />
-</p>
-
-<p align="center">
-  <img src="imagemDisneyApp3.png" width="30%" />
+  <img src="imagemDisneyApp3.png" width="22%" />
 </p>
 
 ---
