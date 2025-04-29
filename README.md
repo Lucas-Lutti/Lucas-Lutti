@@ -31,9 +31,9 @@
 🛠 **Tecnologias:** SwiftUI · Firebase Firestore · Combine · Swift Package Manager  
 
 <p align="center">
-  <img src="donkeyCards1.jpeg" width="30%" style="margin-right: 10px;" />
-  <img src="donkeyCards2.jpeg" width="30%" style="margin: 0 10px;" />
-  <img src="donkeyCards3.jpeg" width="30%" style="margin-left: 10px;" />
+  <img src="donkeyCards1.jpeg" width="22%" />
+  <img src="donkeyCards2.jpeg" width="22%" />
+  <img src="donkeyCards3.jpeg" width="22%" />
 </p>
 
 ---
@@ -43,7 +43,12 @@
 
 📂 [Repositório](https://github.com/Lucas-Lutti/DisneyCharactersProject)  
 🛠 **Tecnologias:** Swift · SwiftUI · REST · API da Disney  
-📷 *(Adicione uma imagem aqui quando disponível)*
+
+<p align="center">
+  <img src="imagemDisneyApp1.png" width="22%" />
+  <img src="imagemDisneyApp2.png" width="22%" />
+  <img src="imagemDisneyApp3.png" width="22%" />
+</p>
 
 ---
 
