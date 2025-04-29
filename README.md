@@ -1,8 +1,8 @@
 <h1 align="center">Lucas Picinin</h1>
 
 <p align="center">
-  Desenvolvedor iOS apaixonado por transformar ideias em aplicativos intuitivos e eficientes.<br/>
-  Foco em <strong>SwiftUI</strong>, arquitetura moderna e experiências centradas no usuário.
+  Desenvolvedor iOS e Android apaixonado por transformar ideias em aplicativos intuitivos e eficientes.<br/>
+  Foco em <strong>SwiftUI</strong>, <strong>Kotlin</strong>, <strong>Java</strong> e experiência completa em publicação nas lojas.
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 ## 🚀 Sobre
 
 🎓 Graduando em Engenharia de Software na PUC Minas  
-📱 Especialista em desenvolvimento mobile nativo para iOS  
-🧠 Acredito em código limpo, interfaces agradáveis e soluções práticas  
-📚 Em constante aprendizado sobre arquitetura, usabilidade e inovação mobile  
+📱 Especialista em desenvolvimento mobile nativo para iOS e Android  
+📦 Experiência completa na criação e publicação de apps nas lojas App Store e Google Play  
+🔧 Tecnologias que domino: `SwiftUI`, `UIKit`, `Kotlin`, `Java`, `Firebase`, `MVVM`, `Combine`
 
 ---
 
@@ -50,7 +50,10 @@
 <p align="center">
   <img src="imagemDisneyApp1.png" width="22%" />
   <img src="imagemDisneyApp2.png" width="22%" />
-  <img src="imagemDisneyApp3.png" width="22%" />
+</p>
+
+<p align="center">
+  <img src="imagemDisneyApp3.png" width="30%" />
 </p>
 
 ---
