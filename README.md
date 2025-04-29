@@ -1,79 +1,68 @@
-<h1 align="center">👋 Olá! Eu sou o Lucas Picinin</h1>
+<h1 align="center">Lucas Picinin</h1>
 
 <p align="center">
-Desenvolvedor iOS • Foco em SwiftUI e apps modernos • Explorando ideias criativas com código 🚀  
+  Desenvolvedor iOS focado em <strong>SwiftUI</strong>, apaixonado por criar experiências digitais intuitivas e modernas.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-picinin-campos-lutti-504219227/"><img src="https://img.shields.io/badge/LinkedIn-Lucas%20Picinin-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:lucaspicinin@hotmail.com"><img src="https://img.shields.io/badge/Email-Lucaspicinin@hotmail.com-red?style=flat&logo=gmail" /></a>
-  <a href="https://wa.me/5531995193110"><img src="https://img.shields.io/badge/WhatsApp-Contato-green?style=flat&logo=whatsapp" /></a>
-</p>
-
----
-
-## 🚀 Sobre mim
-
-🎓 Estudante de Engenharia de Software na PUC Minas  
-📱 Foco em desenvolvimento mobile com SwiftUI  
-🇵🇪 Morando em Lima, Peru  
-🛠️ Criando apps com arquitetura limpa, animações e usabilidade como prioridade  
-
----
-
-## 🌟 Projetos em Destaque
-
-### 🐵 DonkeyCards  
-> Aprenda idiomas com flashcards e acompanhe seu progresso
-
-[🔗 App Store](https://apps.apple.com/pe/app/donkeycards/id6744418608?l=en-GB) | [📂 Repositório](https://github.com/Lucas-Lutti/DonkeyCards-iOS)
-
-<!-- Adicione a imagem abaixo quando tiver um link -->
-<!-- ![DonkeyCards](https://link-da-sua-imagem-aqui.png) -->
-
-**Tecnologias:**  
-`SwiftUI` • `Firebase Firestore` • `Combine` • `Swift Package Manager`
-
----
-
-### 🎬 Explorador de Personagens da Disney  
-> Navegue pelo universo Disney com requisições de API e design responsivo
-
-[📂 Repositório](https://github.com/Lucas-Lutti/DisneyCharactersProject)
-
-<!-- ![DisneyCharactersProject](https://link-da-sua-imagem-aqui.png) -->
-
-**Tecnologias:**  
-`Swift` • `SwiftUI` • `API da Disney` • `REST`
-
----
-
-### 🌍 HubYourTrip  
-> Explore e reserve passeios turísticos em uma experiência fluida e organizada
-
-📦 Repositório privado
-
-<!-- ![HubYourTrip](https://link-da-sua-imagem-aqui.png) -->
-
-**Tecnologias:**  
-`SwiftUI` • `AppStorage` • `CoreLocation` • `MVVM`
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Lutti&show_icons=true&theme=tokyonight&hide=stars&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lutti&layout=compact&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/lucas-picinin-campos-lutti-504219227/"><img src="https://img.shields.io/badge/LinkedIn-Lucas_Picinin-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:lucaspicinin@hotmail.com"><img src="https://img.shields.io/badge/Email-Lucaspicinin@hotmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://wa.me/5531995193110"><img src="https://img.shields.io/badge/WhatsApp-Contato-green?style=flat-square&logo=whatsapp"></a>
 </p>
 
 ---
 
-## ✉️ Contato
+## 🚀 Sobre
 
-- **LinkedIn**: [lucas-picinin-campos-lutti](https://www.linkedin.com/in/lucas-picinin-campos-lutti-504219227/)  
-- **Email**: lucaspicinin@hotmail.com  
-- **WhatsApp**: [+55 31 99519-3110](https://wa.me/5531995193110)  
+🎓 Graduando em Engenharia de Software na PUC Minas  
+📍 Baseado em Lima, Peru  
+📱 Especializado em desenvolvimento mobile nativo com foco em UX  
+🧠 Explorando soluções criativas com código limpo, Swift moderno e animações nativas
+
+---
+
+## 🧩 Projetos
+
+### 🐵 DonkeyCards
+> App para estudar idiomas com flashcards inteligentes
+
+🔗 [App Store](https://apps.apple.com/pe/app/donkeycards/id6744418608?l=en-GB)  
+📂 [Repositório](https://github.com/Lucas-Lutti/DonkeyCards-iOS)  
+🛠 **Tecnologias:** SwiftUI · Firebase Firestore · Combine · Swift Package Manager  
+📷 *(Adicione uma imagem aqui quando disponível)*
+
+---
+
+### 🎬 Explorador de Personagens da Disney
+> Navegue e explore personagens da Disney com consumo de API e layout responsivo
+
+📂 [Repositório](https://github.com/Lucas-Lutti/DisneyCharactersProject)  
+🛠 **Tecnologias:** Swift · SwiftUI · REST · API da Disney  
+📷 *(Adicione uma imagem aqui quando disponível)*
+
+---
+
+### 🌍 HubYourTrip
+> MVP para descoberta e reserva de passeios turísticos
+
+🔒 Repositório privado  
+🛠 **Tecnologias:** SwiftUI · CoreLocation · AppStorage · MVVM  
+📷 *(Adicione uma imagem aqui quando disponível)*
+
+---
+
+## 🧠 Linguagens mais utilizadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lutti&layout=compact&theme=gradient" />
+</p>
+
+---
+
+## 📫 Contato
+
+- 📧 Email: [lucaspicinin@hotmail.com](mailto:lucaspicinin@hotmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/lucas-picinin-campos-lutti](https://www.linkedin.com/in/lucas-picinin-campos-lutti-504219227/)  
+- 📱 WhatsApp: [Clique aqui para conversar](https://wa.me/5531995193110)
 
 ---
