@@ -26,10 +26,15 @@
 ### 🐵 DonkeyCards
 > App para estudar idiomas com flashcards inteligentes
 
+<p float="left">
+  <img src="donkeyCardsLogo.png" width="100" />  
+</p>
+
 🔗 [App Store](https://apps.apple.com/pe/app/donkeycards/id6744418608?l=en-GB)  
 📂 [Repositório](https://github.com/Lucas-Lutti/DonkeyCards-iOS)  
 🛠 **Tecnologias:** SwiftUI · Firebase Firestore · Combine · Swift Package Manager  
-📷 *(Adicione uma imagem aqui quando disponível)*
+
+<img src="donkeyCards1.jpeg" width="600" alt="DonkeyCards App Screenshot"/>
 
 ---
 
