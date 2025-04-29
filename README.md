@@ -1,7 +1,8 @@
 <h1 align="center">Lucas Picinin</h1>
 
 <p align="center">
-  Desenvolvedor iOS focado em <strong>SwiftUI</strong>, apaixonado por criar experiências digitais intuitivas e modernas.
+  Desenvolvedor iOS apaixonado por transformar ideias em aplicativos intuitivos e eficientes.<br/>
+  Foco em <strong>SwiftUI</strong>, arquitetura moderna e experiências centradas no usuário.
 </p>
 
 <p align="center">
@@ -15,20 +16,21 @@
 ## 🚀 Sobre
 
 🎓 Graduando em Engenharia de Software na PUC Minas  
-📍 Baseado em Lima, Peru  
-📱 Especializado em desenvolvimento mobile nativo com foco em UX  
-🧠 Explorando soluções criativas com código limpo, Swift moderno e animações nativas
+📱 Especialista em desenvolvimento mobile nativo para iOS  
+🧠 Acredito em código limpo, interfaces agradáveis e soluções práticas  
+📚 Em constante aprendizado sobre arquitetura, usabilidade e inovação mobile  
 
 ---
 
-## 🧩 Projetos
+## 📱 Projetos Pessoais / Portfólio
 
 ### 🐵 DonkeyCards
-> App para estudar idiomas com flashcards inteligentes
 
-🔗 [App Store](https://apps.apple.com/pe/app/donkeycards/id6744418608?l=en-GB)  
-📂 [Repositório](https://github.com/Lucas-Lutti/DonkeyCards-iOS)  
-🛠 **Tecnologias:** SwiftUI · Firebase Firestore · Combine · Swift Package Manager  
+> Aplicativo de estudo de idiomas por flashcards interativos, com suporte a múltiplos temas e acompanhamento de progresso personalizado.
+
+🔗 [Disponível na App Store](https://apps.apple.com/pe/app/donkeycards/id6744418608?l=en-GB)  
+📂 [Repositório Público](https://github.com/Lucas-Lutti/DonkeyCards-iOS)  
+🛠 **Tecnologias:** `SwiftUI`, `Firebase Firestore`, `Combine`, `Swift Package Manager`  
 
 <p align="center">
   <img src="donkeyCards1.jpeg" width="22%" />
@@ -39,10 +41,11 @@
 ---
 
 ### 🎬 Explorador de Personagens da Disney
-> Navegue e explore personagens da Disney com consumo de API e layout responsivo
 
-📂 [Repositório](https://github.com/Lucas-Lutti/DisneyCharactersProject)  
-🛠 **Tecnologias:** Swift · SwiftUI · REST · API da Disney  
+> Aplicativo para explorar o universo dos personagens da Disney, organizados por mídias como filmes, séries e curtas. Projeto de portfólio com integração a API externa e navegação fluida via SwiftUI.
+
+📂 [Repositório Público](https://github.com/Lucas-Lutti/DisneyCharactersProject)  
+🛠 **Tecnologias:** `Swift`, `SwiftUI`, `iOS`, `REST`, `API da Disney`  
 
 <p align="center">
   <img src="imagemDisneyApp1.png" width="22%" />
@@ -53,11 +56,16 @@
 ---
 
 ### 🌍 HubYourTrip
-> MVP para descoberta e reserva de passeios turísticos
 
-🔒 Repositório privado  
-🛠 **Tecnologias:** SwiftUI · CoreLocation · AppStorage · MVVM  
-📷 *(Adicione uma imagem aqui quando disponível)*
+> MVP de uma plataforma para busca e reserva de passeios turísticos, com layout moderno, dados simulados e arquitetura MVVM. Este projeto simula a experiência do usuário final desde a descoberta até a simulação de reserva.
+
+🔒 Repositório Privado  
+🛠 **Tecnologias:**  
+• `SwiftUI` (Interface)  
+• `Swift` (Linguagem base)  
+• `AppStorage` (Persistência local de preferências)  
+• `CoreLocation` (Geolocalização)  
+• Arquitetura `MVVM`  
 
 ---
 
@@ -71,8 +79,8 @@
 
 ## 📫 Contato
 
-- 📧 Email: [lucaspicinin@hotmail.com](mailto:lucaspicinin@hotmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/lucas-picinin-campos-lutti](https://www.linkedin.com/in/lucas-picinin-campos-lutti-504219227/)  
-- 📱 WhatsApp: [Clique aqui para conversar](https://wa.me/5531995193110)
-
----
+<p align="center">
+  <a href="mailto:lucaspicinin@hotmail.com">📧 lucaspicinin@hotmail.com</a> • 
+  <a href="https://wa.me/5531995193110">📱 WhatsApp</a> • 
+  <a href="https://www.linkedin.com/in/lucas-picinin-campos-lutti-504219227/">💼 LinkedIn</a>
+</p>
