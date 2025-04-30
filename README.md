@@ -49,7 +49,6 @@
 
 <p align="center">
   <img src="imagemDisneyApp1.png" width="22%" />
-  <img src="imagemDisneyApp2.png" width="22%" />
   <img src="imagemDisneyApp3.png" width="22%" />
 </p>
 
