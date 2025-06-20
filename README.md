@@ -28,7 +28,7 @@
 
 > Aplicativo de estudo de idiomas por flashcards interativos, com suporte a múltiplos temas e acompanhamento de progresso personalizado.
 
-🔗 [Disponível na App Store](https://apps.apple.com/pe/app/donkeycards/id6744418608?l=en-GB)  
+⌛ **Status:** Publicado na App Store por alguns meses; atualmente não está mais disponível para download.  
 📂 [Repositório Público](https://github.com/Lucas-Lutti/DonkeyCards-iOS)  
 🛠 **Tecnologias:** `SwiftUI`, `Firebase Firestore`, `Combine`, `Swift Package Manager`  
 
